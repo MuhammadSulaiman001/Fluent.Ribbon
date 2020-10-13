@@ -1110,7 +1110,7 @@ Pellentesque nec dolor sed lacus tristique rutrum sed vitae urna. Sed eu pharetr
                                     Format="0 px"
                                     Header="Right:"
                                     Icon="{DynamicResource Fluent.Ribbon.Images.Warning}"
-                                    SelectAllTextOnFocus="True" />
+                                    SelectAllTextOnFocus="True"/>
                     <Fluent:Spinner KeyTip="KC"
                                     InputWidth="75"
                                     Format="0 px"
